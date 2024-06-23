@@ -1,2 +1,2 @@
 # dummy-capstone-resume-project
-This is the practice project, converted the resume of someone else to practice HTML.
+This is just practice project, converted someone else's resume to HTML website, all date in web document is dummy.
